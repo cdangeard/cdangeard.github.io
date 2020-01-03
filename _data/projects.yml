@@ -11,8 +11,8 @@
   link: ./_site/index.html
   #github: cdangeard.github.io/_site/index.html
   quote: >
-
-  description: | A small website i did using R to visualize some of the results of the study.
+  description: |
+    A small website i did using R to visualize some of the results of the study.
 
 - layout: top-middle
   name: R-shiny project
