@@ -1,8 +1,24 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  name: Défi IA
+  link: https://defi-ia.insa-toulouse.fr/
+  #github: sproogen/resume-theme
+  #quote: >
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Participation to this kaggle like tournament, bettween data science formation in france.
+
+- layout: top-middle
+  name: Study on employement and formation
+  link: ./_site/index.html
+  #github: cdangeard.github.io/_site/index.html
+  quote: >
+
+  description: | A small website i did using R to visualize some of the results of the study.
+
+- layout: top-middle
+  name: R-shiny project
+  #link: https://github.com/cdangeard/projetVisu
+  github: cdangeard/projetVisu
+  #quote: >
+#    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    A small project to visualize some cartographic data, using <mark>leaflet</mark>, also some more "basic" graphs

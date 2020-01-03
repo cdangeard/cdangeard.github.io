@@ -3,4 +3,11 @@
   dates: 2017 - 2020
   qualification: MSc Applied Mathématics to Statisics, Data Science
   #quote: >
-  description: | # this will include new lines to allow paragraphs
+  description: | Text prediction,  | # this will include new lines to allow paragraphs
+
+- layout: left
+  name: INSA Rouen (engineering school)
+  dates: 2012 - 2016
+  #qualification: MSc Applied Mathématics to Statisics, Data Science
+  #quote: >
+  description: | Algebra Topology, Analysis, | C, Java, Network technologies. # this will include new lines to allow paragraphs

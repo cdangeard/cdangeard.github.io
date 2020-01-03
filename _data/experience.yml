@@ -1,9 +1,19 @@
 - layout: left
   company: SUOIP
   #link: boringcompany.com
-  job_title: Intern
-  dates: April 2019 - July 2019
+  job_title: Internship followed by a student contract
+  dates: April 2019 - July 2019 - Present
   #quote: >
   # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
-    Responsible for a study about qualification and formation around Rennes, in east britany.
+    Statistical project manager on a study about qualification and formation around Rennes, in east britany.
+
+- layout: left
+  company: Urgence afrique
+  #link: boringcompany.com
+  job_title: Volunteering
+  dates: November 2016 - June 2018
+  #quote: >
+  # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    Webdesign for NGO.
