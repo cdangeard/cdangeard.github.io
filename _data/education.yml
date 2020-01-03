@@ -3,13 +3,15 @@
   dates: 2017 - 2020
   qualification: MSc Applied Mathématics to Statisics, Data Science
   #quote: >
-  description: | Text prediction, Machine learning, Deep learning,
-Optimization, Large-scale data, Massive and complex data, Bayesian statistics.
-| Python, Dask, Spark, Hadoop, SAS # this will include new lines to allow paragraphs
+  description: |
+   Text prediction, Machine learning, Deep learning, Optimization, Large-scale data, Massive and complex data, Bayesian statistics.
+|
+ Python, Dask, Spark, Hadoop, SAS # this will include new lines to allow paragraphs
 
 - layout: left
   name: INSA Rouen (engineering school)
   dates: 2012 - 2016
   #qualification: MSc Applied Mathématics to Statisics, Data Science
   #quote: >
-  description: | Algebra Topology, Analysis, | C, Java, Network technologies. # this will include new lines to allow paragraphs
+  description: |
+  Algebra Topology, Analysis, C, Java, Network technologies. # this will include new lines to allow paragraphs
