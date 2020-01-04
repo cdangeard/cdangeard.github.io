@@ -24,11 +24,11 @@ linkedin_username: cdangeard
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    Hi, my name's Cédric and I'm a student in data science. I'm looking for an internship,
-    so if you have a position for a passionate and curious student feels free to contact me.
-    I'm looking for challenges, and to improve my skills in machine learning and big data technologies.
-    I'm used to work on short term project but I like to see the big picture and identify difficulties before acting.
-    I'm really looking forward to work on projects with real stakes.
+  Hi, my name's Cédric and I'm a student in data science. I'm looking for an internship,
+  so if you have a position for a passionate and curious student feels free to contact me.
+  I'm looking for challenges, and to improve my skills in machine learning and big data technologies.
+  I'm used to work on short term project but I like to see the big picture and identify difficulties before acting.
+  I'm really looking forward to work on projects with real stakes.
 
   I am most skilled in: <mark>Machine Learning</mark>, <mark>Python</mark> and <mark>Reading board games rules</mark>
 
