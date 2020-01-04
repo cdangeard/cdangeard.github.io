@@ -5,7 +5,10 @@
   quote: >
     Novelty detection on time series.
   description: | # this will include new lines to allow paragraphs
-    Participation to this kaggle like tournament, bettween data science formation in france using <mark>Python</mark> and <mark>sklearn</mark>.
+    Participation to this kaggle like tournament, involving data Science student
+    from france. We used <mark>Python</mark> and <mark>sklearn</mark> and learned
+     a lot about some machines learning algorithm, like isolation forest and one class SVM.
+     We also used DTW similarity and fourier transform.
 
 - layout: top-middle
   name: Study on employement and formation
@@ -13,7 +16,8 @@
   #github: cdangeard.github.io/_site/index.html
   quote: >
   description: |
-    A small website i did using <mark>R</mark> and <mark>vizNetwork</mark> to visualize some of the results of the study.
+    A small website i made using <mark>R</mark> and <mark>vizNetwork</mark> to
+    visualize some of the results of the study.
 
 - layout: top-middle
   name: R-shiny project
@@ -22,4 +26,36 @@
   #quote: >
 #    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    A small project to visualize some cartographic data, using <mark>Rshiny</mark> and <mark>leaflet</mark>, also some more "basic" graphs
+    A small project to visualize some cartographic data, using <mark>Rshiny</mark>
+     and <mark>leaflet</mark>, also some more "basic" graphs.
+
+- layout: top-middle
+  name: Bokey cryptocurency trader
+  #link: https://github.com/cdangeard/projetVisu
+  github: cdangeard/cryptoVisu
+  #quote: >
+#    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    A small trader for cryptocurcy using an <mark>API</mark> and <mark>Bokeh</mark>
+    interactive graph, to visualize in real time results. Multiple trading strategies can be
+    implemented. For now, the bot only simulate transactions.
+
+
+- layout: top-middle
+  name: Othello game
+  #link: https://github.com/cdangeard/projetVisu
+  #github: cdangeard/projetVisu
+  #quote: >
+#    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    A group project in <mark>C</mark> back in engineering school, we made a Othello game, with an
+    <mark>UX</mark> and a basic IA using <mark>Alpha-Beta</mark> algorithm.
+
+- layout: top-middle
+  name: A 4 player game
+  #link: https://github.com/cdangeard/projetVisu
+  github: cdangeard/siege
+  #quote: >
+#    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    A small game to practice my <mark>php</php> skills. Today i probably would use Django if i had to redo it.
