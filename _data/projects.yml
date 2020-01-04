@@ -2,7 +2,8 @@
   name: Défi IA
   link: defi-ia.insa-toulouse.fr/
   #github: sproogen/resume-theme
-  quote: > Novelty detection on time series.
+  quote: >
+    Novelty detection on time series.
   description: | # this will include new lines to allow paragraphs
     Participation to this kaggle like tournament, bettween data science formation in france using <mark>Python</mark> and <mark>sklearn</mark>.
 
