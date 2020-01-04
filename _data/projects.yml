@@ -40,7 +40,6 @@
     interactive graph, to visualize in real time results. Multiple trading strategies can be
     implemented. For now, the bot only simulate transactions.
 
-
 - layout: top-middle
   name: Othello game
   #link: https://github.com/cdangeard/projetVisu
@@ -58,4 +57,4 @@
   #quote: >
 #    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    A small game to practice my <mark>php</php> skills. Today i probably would use Django if i had to redo it.
+    A small game to practice my <mark>php</mark> skills. Today i probably would use Django if i had to redo it.
