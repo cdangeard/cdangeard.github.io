@@ -11,15 +11,6 @@
      We also used DTW similarity and fourier transform.
 
 - layout: top-middle
-  name: Study on employement and formation
-  link: cdangeard.github.io/suiop
-  #github: cdangeard.github.io/_site/index.html
-  quote: >
-  description: |
-    A small website i made using <mark>R</mark> and <mark>vizNetwork</mark> to
-    visualize some of the results of the study.
-
-- layout: top-middle
   name: R-shiny project
   #link: https://github.com/cdangeard/projetVisu
   github: cdangeard/projetVisu
