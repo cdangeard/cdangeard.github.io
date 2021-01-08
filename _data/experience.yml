@@ -10,13 +10,14 @@
 
 - layout: left
   company: SUOIP
-  link: https://www.doc.gref-bretagne.com/index.php?lvl=notice_display&id=34358
+  #link:
   job_title: Internship followed by a student contract
   dates: April 2019 - July 2019 - Present
   #quote: >
   # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
     Statistical project manager on a study about employements and formations around Rennes, in east brittany.
+    https://www.doc.gref-bretagne.com/index.php?lvl=notice_display&id=34358
 
 - layout: left
   company: Urgence afrique
