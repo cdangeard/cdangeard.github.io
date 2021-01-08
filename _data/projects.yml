@@ -5,7 +5,8 @@
   quote: >
     A chatbot based on disneyland Paris FAQ.
   description: | # this will include new lines to allow paragraphs
-
+  A group project involving some scraping, NLTK, vectorisation of text.
+  We also trained two neural network, one for discrimination in case the user question seem to select the right awnser from the FAQ and a LSTM to generate an original awnser otherwise.
 
 - layout: top-middle
   name: Défi IA
@@ -17,7 +18,7 @@
     Participation to this kaggle like tournament, involving data Science student
     from france. We used <mark>Python</mark> and <mark>sklearn</mark> and learned
      a lot about some machines learning algorithm, like isolation forest and one class SVM.
-     We also used DTW similarity and fourier transform.
+     Our propositions involved DTW similarity and fourier transform.
 
 - layout: top-middle
   name: R-shiny project
