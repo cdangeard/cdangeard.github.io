@@ -6,7 +6,9 @@
   #quote: >
   # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
-    Working on various projects.
+    Data Scientist intern, i developed an app on <mark>R-shiny</mark> to visualize cartographic data.
+    I also worked with the experts and managers to redesign their pilloting, using <mark>Jaspersoft</mark> the plateform used by Enedis.
+    On the side i worked on small modelisation problems and on a facility location problem.
 
 - layout: left
   company: SUOIP
