@@ -1,4 +1,14 @@
 - layout: left
+  company: Enedis
+  link: https://www.enedis.fr/
+  job_title: Internship as Data Scientist
+  dates: March 2020 - Present
+  #quote: >
+  # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    Working on various projects.
+   
+- layout: left
   company: SUOIP
   link: https://www.doc.gref-bretagne.com/index.php?lvl=notice_display&id=34358
   job_title: Internship followed by a student contract
