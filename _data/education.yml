@@ -1,12 +1,20 @@
 - layout: left
   name: Université Rennes 2
-  dates: 2017 - 2020
-  qualification: MSc Applied Mathématics to Statisics, Data Science
-  #quote: >
+  dates: 2020
+  qualification: MSc Applied Mathematics to Statisics, Data Science
+  quote: High Honnors
   description: |
    Text prediction, Machine learning, Deep learning, Large-scale data, Massive and complex data, Bayesian statistics,
-   
-   Python, Dask, Spark, Hadoop, SAS
+
+   Python, Dask, Spark, Hadoop, SAS.
+
+- layout: left
+  name: Université Rennes 2
+  dates: 2018
+  qualification: Bachelor in Mathematics and Computer Science applied to HSS
+ # quote:
+  description: |
+  Inferential statistics, probabilities, international economics, demography.
 
 - layout: left
   name: INSA Rouen (engineering school)

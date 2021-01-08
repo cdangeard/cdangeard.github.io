@@ -1,7 +1,16 @@
 - layout: top-middle
+  name: Chatbot Disney
+  #link: defi-ia.insa-toulouse.fr/
+  github: cdangeard/chatBot_disney
+  quote: >
+    A chatbot based on disneyland Paris FAQ.
+  description: | # this will include new lines to allow paragraphs
+
+
+- layout: top-middle
   name: Défi IA
   link: defi-ia.insa-toulouse.fr/
-  #github: sproogen/resume-theme
+  #github:
   quote: >
     Novelty detection on time series.
   description: | # this will include new lines to allow paragraphs
@@ -12,7 +21,7 @@
 
 - layout: top-middle
   name: R-shiny project
-  #link: https://github.com/cdangeard/projetVisu
+  #link:
   github: cdangeard/projetVisu
   #quote: >
 #    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
@@ -22,7 +31,7 @@
 
 - layout: top-middle
   name: Bokey cryptocurency trader
-  #link: https://github.com/cdangeard/projetVisu
+  #link:
   github: cdangeard/cryptoVisu
   #quote: >
 #    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
@@ -33,8 +42,8 @@
 
 - layout: top-middle
   name: Othello game
-  #link: https://github.com/cdangeard/projetVisu
-  #github: cdangeard/projetVisu
+  #link:
+  #github:
   #quote: >
 #    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
@@ -43,7 +52,7 @@
 
 - layout: top-middle
   name: A 4 player game
-  #link: https://github.com/cdangeard/projetVisu
+  #link:
   github: cdangeard/siege
   #quote: >
 #    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
