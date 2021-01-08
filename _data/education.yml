@@ -12,9 +12,8 @@
   name: Université Rennes 2
   dates: 2018
   qualification: Bachelor in Mathematics and Computer Science applied to HSS
- # quote: 
-  description: |
-  Inferential statistics, probabilities, international economics, demography.
+ # quote:
+  description: Inferential statistics, probabilities, international economics, demography.
 
 - layout: left
   name: INSA Rouen (engineering school)
