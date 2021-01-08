@@ -6,7 +6,9 @@
     A chatbot based on disneyland Paris FAQ.
   description: | # this will include new lines to allow paragraphs
   A group project involving some scraping, NLTK, vectorisation of text.
-  We also trained two neural network, one for discrimination in case the user question seem to select the right awnser from the FAQ and a LSTM to generate an original awnser otherwise.
+  We also trained two neural network, one for discrimination in case the user
+   question seem to select the right awnser from the FAQ and a LSTM to generate
+   an original awnser otherwise.
 
 - layout: top-middle
   name: Défi IA
