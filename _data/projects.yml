@@ -1,63 +1,13 @@
 - layout: top-middle
-  name: Chatbot Disney
-  #link: defi-ia.insa-toulouse.fr/
-  github: cdangeard/chatBot_disney
+  name: NiFi Companion
   quote: >
-    A chatbot based on disneyland Paris FAQ.
+    A browser extension to help with Apache NiFi development.
   description: | # this will include new lines to allow paragraphs
-    A group project involving some <mark>scraping</mark>, <mark>NLTK</mark>, vectorisation of text.
-    We also trained two neural networks, one for discrimination in case the user
-     question seem to select the right awnser from the FAQ and a <mark>LSTM</mark> to generate
-     an original awnser otherwise.
+    Browser extension that makes day-to-day <mark>Apache NiFi</mark> development easier.
 
 - layout: top-middle
-  name: Défi IA
-  link: defi-ia.insa-toulouse.fr/
-  #github:
+  name: Actux
   quote: >
-    Novelty detection on time series.
+    Web scraping and NLP pipeline for spotting semantic trends.
   description: | # this will include new lines to allow paragraphs
-    Participation to this kaggle like tournament, involving data Science student
-    from france. We used <mark>Python</mark> and <mark>sklearn</mark> and learned
-     a lot about some machines learning algorithm, like isolation forest and one class SVM.
-     Our propositions involved DTW similarity and fourier transform.
-
-- layout: top-middle
-  name: R-shiny project
-  #link:
-  github: cdangeard/projetVisu
-  #quote: >
-#    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: | # this will include new lines to allow paragraphs
-    A small project to visualize some cartographic data, using <mark>Rshiny</mark>
-     and <mark>leaflet</mark>, also some more "basic" graphs.
-
-- layout: top-middle
-  name: Bokey cryptocurency trader
-  #link:
-  github: cdangeard/cryptoVisu
-  #quote: >
-#    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: | # this will include new lines to allow paragraphs
-    A small trader for cryptocurcy using an <mark>API</mark> and <mark>Bokeh</mark>
-    interactive graph, to visualize in real time results. Multiple trading strategies can be
-    implemented. For now, the bot only simulate transactions.
-
-- layout: top-middle
-  name: Othello game
-  #link:
-  #github:
-  #quote: >
-#    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: | # this will include new lines to allow paragraphs
-    A group project in <mark>C</mark> made back in engineering school, we made a Othello game, with an
-    <mark>UX</mark> and a basic IA using <mark>Alpha-Beta</mark> algorithm.
-
-- layout: top-middle
-  name: A 4 player game
-  #link:
-  github: cdangeard/siege
-  #quote: >
-#    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: | # this will include new lines to allow paragraphs
-    A small game to practice my <mark>php</mark> skills. Today i probably would use Django if i had to redo it.
+    A <mark>web scraping</mark> and <mark>NLP</mark> pipeline that identifies semantic trends.

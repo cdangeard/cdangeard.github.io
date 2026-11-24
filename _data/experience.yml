@@ -1,35 +1,62 @@
 - layout: left
+  company: Orange Business
+  link: https://www.orange-business.com/
+  job_title: Data Engineer (Senior Consultant), client Groupe La Poste
+  dates: 2023 - Present
+  quote: >
+    Nantes, France
+  description: | # this will include new lines to allow paragraphs
+    **Data Lake build on Databricks** *(since October 2026)*: building Groupe La Poste's Data Lake on Databricks.
+    - **Ingestion:** pipelines from source systems into <mark>Delta Lake</mark> with a declarative, YAML-configured ingestion framework.
+    - **Transformation:** <mark>PySpark</mark> / <mark>Spark SQL</mark> pipelines feeding a technical Silver layer (cleaning, typing, standardisation).
+    - **Modelling:** modelled Silver layer and Gold tables for business use cases.
+    - **Stack:** Azure Databricks, Spark (PySpark, Spark SQL), Delta Lake, Python, SQL, YAML.
+
+    **SAP migrations** *(2023 - 2026)*: build & run of large-scale data migrations to SAP.
+    - **Expertise:** technical lead on the <mark>Apache NiFi</mark> stack: flow audits, design of complex architectures, validation of specifications in design workshops.
+    - **Governance & quality:** defined best practices and development standards, ran code reviews.
+    - **Automation & tooling:** <mark>Python</mark> scripts automating development cycles to boost team productivity.
+    - **Observability:** platform monitoring and custom monitoring tools for Cloudera clusters (<mark>Grafana</mark>, <mark>Kibana</mark>).
+    - **Stack:** NiFi, Python, Groovy, Kafka, MySQL, REST, Kibana, Grafana.
+
+- layout: left
+  company: IAE Nantes
+  link: https://iae.univ-nantes.fr/
+  job_title: Adjunct Lecturer (alongside full-time role)
+  dates: 2023 - Present
+  description: | # this will include new lines to allow paragraphs
+    - **Machine Learning:** decision trees and ensemble methods in Python (<mark>Scikit-Learn</mark>) for Master 2 Econometrics students.
+    - **Data acquisition:** web scraping, plus core refreshers on the web and <mark>SQL</mark>.
+
+- layout: left
+  company: Inetum
+  link: https://www.inetum.com/
+  job_title: Data Engineer, client Groupe Arkéa
+  dates: 2022
+  quote: >
+    Brest, France
+  description: | # this will include new lines to allow paragraphs
+    - **Big Data engineering:** extraction and transformation of large datasets on Groupe Arkéa's <mark>Hadoop</mark> ecosystem.
+    - **Technical:** complex <mark>Apache Pig</mark> queries on HDFS and Hive.
+
+- layout: left
   company: Enedis
   link: https://www.enedis.fr/
-  job_title: Internship as Data Scientist
-  dates: March 2020 - August 2020
-  #quote: >
-  # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  job_title: Data Scientist (internship)
+  dates: 2020
   description: | # this will include new lines to allow paragraphs
-    Data Scientist intern, i developed an app on <mark>R-shiny</mark> to visualize cartographic data.
-    I also worked with the experts and managers to redesign their pilloting, using <mark>Jaspersoft</mark> the plateform used by Enedis.
-    On the side i worked on small modelisation problems and on a facility location problem.
+    Predictive modelling and a cartographic visualisation app built with <mark>R-Shiny</mark>.
 
 - layout: left
-  company: SUOIP
-  #link:
-  job_title: Internship followed by a student contract
-  dates: April 2019 - July 2019 - Present
-  #quote: >
-  # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  company: SUOIP Rennes 2
+  job_title: Data Analyst (internship)
+  dates: 2019
   description: | # this will include new lines to allow paragraphs
-    Statistical project manager on a [study](https://www.doc.gref-bretagne.com/index.php?lvl=notice_display&id=34358)
-     about employements and formations around Rennes, in east brittany.
-
+    Textual data analysis with R and Python.
 
 - layout: left
-  company: Urgence afrique
-  #link: boringcompany.com
-  job_title: Volunteering
-  dates: November 2016 - June 2018
-  #quote: >
-  # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  company: Urgence Afrique
+  job_title: Volunteer Web Developer
+  dates: 2016 - 2018
   description: | # this will include new lines to allow paragraphs
-    Webdesign for an NGO. I remade and organised some pages using their already
-    made <mark>Drupal</mark> website. It involved a lot of <mark>css</mark> and
-    some <mark>html</mark>.
+    Redesign of the NGO's <mark>Drupal</mark> website.

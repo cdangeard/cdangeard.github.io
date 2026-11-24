@@ -1,26 +1,19 @@
 - layout: left
-  name: Université Rennes 2
-  dates: 2020
-  qualification: MSc Applied Mathematics to Statisics, Data Science
-  quote: High Honnors
-  description: |
-   Text prediction, Machine learning, Deep learning, Large-scale data, Massive and complex data, Bayesian statistics,
-
-   Python, Dask, Spark, Hadoop, SAS.
+  name: Databricks
+  dates: August 2026
+  qualification: Databricks Certified Data Engineer Associate
 
 - layout: left
-  name: Université Rennes 2
-  dates: 2018
-  qualification: Bachelor in Mathematics and Computer Science applied to HSS
- # quote:
-  description: Inferential statistics, probabilities, international economics, demography.
+  name: Microsoft
+  qualification: "Azure certifications: AZ-900, DP-900, AI-900"
 
 - layout: left
-  name: INSA Rouen (engineering school)
+  name: Université de Rennes
+  dates: 2018 - 2020
+  qualification: Master's in Applied Mathematics
+  description: Statistics, Machine & Deep Learning, Optimisation, Probability.
+
+- layout: left
+  name: INSA Rouen
   dates: 2012 - 2016
-  #qualification:
-  #quote: >
-  description: |
-    Algebra, Topology, Analysis and other basic math classes.
-    C, Java, and some Network and informatic classes (operating systems,
-    signal processing, ...).
+  qualification: Information Systems Architecture & integrated preparatory cycle
