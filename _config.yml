@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Cédric Dangeard
-title: Master in applied Mathematics, statistics
+title: Senior Data Engineer | Databricks & Spark
 email: cedric@dangeard.fr
 #website:
 
@@ -24,12 +24,14 @@ linkedin_username: cdangeard
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Cédric and i’m a Data Engineer for Orange Business. 
-  I'm looking for challenges, and to improve my skills in machine learning and big data technologies.
-  I'm used to work on short term project but I like to see the big picture and identify difficulties before acting.
-  I'm really looking forward to work on projects with real stakes.
+  Hi, I'm Cédric, a senior Data Engineer at Orange Business based in Nantes, France,
+  and a *Databricks Certified Data Engineer Associate*.
 
-  I am most skilled in: <mark>Machine Learning</mark>, <mark>Python</mark> and <mark>Reading board games rules</mark>
+  I'm currently building Groupe La Poste's Data Lake on Databricks, after three years as
+  technical lead on the Apache NiFi stack for their large-scale SAP migrations.
+  Alongside that, I teach Machine Learning and web scraping at IAE Nantes.
+
+  I am most skilled in: <mark>Databricks</mark>, <mark>Apache Spark</mark>, <mark>Apache NiFi</mark>, <mark>Python</mark> and <mark>SQL</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -38,17 +40,22 @@ about_content: | # this will include new lines to allow paragraphs
 # experience_title: Experience
 
 # Education Section
-# educaton_title: Education
+education_title: Certifications & Education
 
 # More Section
-# more_title: A Little More About Me
+more_title: Skills & More
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in neural networks and AI some of my other interests and hobbies are:
-   - [Ultimate frisbee](https://www.youtube.com/watch?v=Yqwgk6Pg1AA)
-   - Board Games
-   - Gaming
-   - History
-   - Traveling
+  **Data Engineering:** Databricks, Apache Spark (PySpark, Spark SQL), Apache NiFi, Kafka, REST APIs, Apache Pig, Hive, HDFS.
+
+  **Languages:** Python, SQL, Scala, R, Groovy, Java, C.
+
+  **Cloud & DevOps:** Docker, Azure, AWS (EC2/S3), Git, Kubernetes.
+
+  **Data viz & databases:** MySQL, Kibana, Grafana, R-Shiny, Semarchy, Informatica.
+
+  **Spoken languages:** French (native), English.
+
+  **Hobbies:** [Ultimate frisbee](https://www.youtube.com/watch?v=Yqwgk6Pg1AA), history, strategy games.
 
 # Footer
 footer_show_references: true
